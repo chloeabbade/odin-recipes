@@ -1,8 +1,15 @@
-#header {
+.header,
+.mainheader,
+p,
+.list {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
+    
+}
+
+.mainheader {
     font-size: 36px;
     font-weight: 700;
+    text-align: center;
 }
 
 img {
@@ -14,4 +21,14 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.header{
+font-size: 22px;
+font-weight: 600;
+}
+
+p,
+.list{
+    font-size: 16px;
 }
