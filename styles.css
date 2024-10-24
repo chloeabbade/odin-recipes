@@ -4,3 +4,10 @@
     font-size: 36px;
     font-weight: 700;
 }
+
+#link {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color: #182d09;
+    font-weight: 600;
+}
